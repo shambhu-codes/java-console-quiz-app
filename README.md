@@ -22,9 +22,16 @@ This is a simple **console-based quiz application** written in **Java**. It allo
 3. Open terminal in the project directory.
    
 5. Compile the code:
-   
    javac QuizApp.java
-   
 4.Run
-
    java QuizApp.java
+## Simple Output
+1. Java programming language was developed by?
+A. James Gosling
+B. Dennis Ritchie
+C. Bjarne Stroustrup
+D. Guido van Rossum
+Your answer: A
+Correct!
+Quiz Completed!
+Your Score: 8 out of 10
