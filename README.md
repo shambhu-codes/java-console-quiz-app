@@ -26,12 +26,12 @@ This is a simple **console-based quiz application** written in **Java**. It allo
 4.Run
    java QuizApp.java
 ## Simple Output
-1. Java programming language was developed by?
-A. James Gosling
-B. Dennis Ritchie
-C. Bjarne Stroustrup
-D. Guido van Rossum
-Your answer: A
-Correct!
-Quiz Completed!
+1. Java programming language was developed by? <br>
+A. James Gosling <br>
+B. Dennis Ritchie <br>
+C. Bjarne Stroustrup <br>
+D. Guido van Rossum <br>
+Your answer: A <br>
+Correct! <br>
+Quiz Completed! <br>
 Your Score: 8 out of 10
