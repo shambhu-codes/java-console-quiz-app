@@ -33,5 +33,7 @@ C. Bjarne Stroustrup <br>
 D. Guido van Rossum <br>
 Your answer: A <br>
 Correct! <br>
+------ <br>
+-------- <br>
 Quiz Completed! <br>
 Your Score: 8 out of 10
